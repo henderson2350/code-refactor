@@ -69,16 +69,6 @@ a {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 
 .benefits {
     margin-right: 20px;
@@ -202,4 +192,14 @@ a {
 
 .footer h2 {
     font-size: 20px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
