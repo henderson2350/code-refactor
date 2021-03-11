@@ -24,15 +24,19 @@ a {
     color: #ffffff;
 }
 
+/* This attribute deals with the "Hor" and "n" in "Horiseon." */
 .header h1 {
     display: inline-block;
     font-size: 48px;
-    color: red
+    color: white
 }
 
+/* This attribute deals with the "seo" in "Horiseon" */
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* This class lays out the section where the three blocks that float left with go. */
 .content {
     width: 75%;
     display: inline-block;
